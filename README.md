@@ -1,8 +1,6 @@
 # Kaggle-Challenges
 
-1. Titanic 
-
-
+## Titanic 
 An attempt at the Titanic challenge. Algorithms tested:
-   1. Decision Trees
+1. Decision Trees
 
