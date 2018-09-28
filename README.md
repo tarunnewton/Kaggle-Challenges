@@ -2,6 +2,6 @@
 
 1. Titanic 
 
-   A attempt at the Titanic challenge. Alogorithems tested:
+   An attempt at the Titanic challenge. Algorithms tested:
    1. Decision Trees
 
